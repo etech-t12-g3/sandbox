@@ -1,2 +1,2 @@
 # sandbox
-for demo
+for demo purposes
